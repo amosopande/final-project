@@ -20,22 +20,22 @@ body {
     text-align: center;
 }
 
-.header h1 {
+.h1 {
     margin: 0;
     text-align: center;
 }
 
-.header ul {
+.ul {
     padding: 0;
-    list-style: none;
+    list-style: none; 
 }
 
-.header ul li {
+.li {
     display: inline;
     margin-right: 10px;
 }
 
-.header ul li a {
+.a {
     color: brown;
     text-decoration: none;
 }
@@ -67,3 +67,4 @@ p {
 a {
     color: #50989f;
 }
+
